@@ -5,4 +5,6 @@
 Polishing DOI articles.
 - https://git.basex.io/dbis/pat/team-a/repo-0/-/wikis/The-OpenProceedings-Use-Case
 
+More details of the project are in the .ppt file.
+
 
