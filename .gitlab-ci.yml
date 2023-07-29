@@ -1,0 +1,43 @@
+stages:
+  - build-sanity-check
+  - build-page-toc
+  - build-add-final-toc
+
+
+
+
+build-sanity-check:
+  image: git.basex.io:4567/dbis/pat/team-a/repo-0/abc
+  stage: build-sanity-check
+  artifacts:
+    untracked: true
+  script:
+    - npm install
+    - node ./sanity_check/sanity_check_formats.js
+    - ls -l
+
+
+build-page-toc:
+  image: git.basex.io:4567/dbis/pat/team-a/repo-0/def
+  dependencies: 
+    - build-sanity-check
+  artifacts:
+    untracked: true
+  stage: build-page-toc
+  script:
+    - ls -l
+    - python ./pdf_recreation/add_page_numbers.py
+    - python ./pdf_recreation/pdf_toc.py 
+
+
+build-add-final-toc:
+  image: git.basex.io:4567/dbis/pat/team-a/repo-0/ghi
+  artifacts:
+    untracked: true
+  dependencies: 
+    - build-page-toc
+  stage: build-add-final-toc
+  script:
+    - ls -l
+    - python3 ./pdf_recreation/add_toc_final.py
+    

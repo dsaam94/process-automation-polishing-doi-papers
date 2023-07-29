@@ -1,0 +1,1099 @@
+<?xml version="1.0"?>
+<conf shortname="EDBT">
+
+<track name="Front Matter">
+
+<paper>
+<author>The PC Chair</author>
+<title>Foreword</title>
+<path>docs/foreword.pdf</path>
+</paper>
+</track>
+
+<track name="Research">
+
+<paper>
+<author>Angela Bonifati</author>
+<author>Ugo Comignani</author>
+<author>Efthymia Tsamoura</author>
+<title>Exchanging Data under Policy Views</title>
+<path>docs/p125.pdf</path>
+<pitch>pitch/e125.mp4</pitch>
+<poster>poster/a125.png</poster>
+<presentation>presentation/v125.mp4</presentation>
+</paper>
+
+<paper>
+<author>Aristotelis Leventidis</author>
+<author>Laura Di Rocco</author>
+<author>Renée J. Miller</author>
+<author>Mirek Riedewald</author>
+<author>Wolfgang Gatterbauer</author>
+<title>DomainNet: Homograph Detection for Data Lake Disambiguation</title>
+<path>docs/p82.pdf</path>
+<pitch>pitch/e82.mp4</pitch>
+<poster>poster/a82.png</poster>
+<presentation>presentation/v82.mp4</presentation>
+</paper>
+
+<paper>
+<author>Jakob Rødsgaard Jørgensen</author>
+<author>Katrine Scheel</author>
+<author>Ira Assent</author>
+<title>GPU-INSCY: A GPU-Parallel Algorithm and Tree Structure for Efficient Density-based Subspace Clustering</title>
+<path>docs/p31.pdf</path>
+<pitch>pitch/e31.mp4</pitch>
+<poster>poster/a31.png</poster>
+<presentation>presentation/v31.mp4</presentation>
+</paper>
+
+<paper>
+<author>Muhammad Attahir Jibril</author>
+<author>Alexander Baumstark</author>
+<author>Philipp Götze</author>
+<author>Kai-Uwe Sattler</author>
+<title>JIT happens: Transactional Graph Processing in Persistent Memory meets Just-In-Time Compilation</title>
+<path>docs/p67.pdf</path>
+<pitch>pitch/e67.mp4</pitch>
+<poster>poster/a67.png</poster>
+<presentation>presentation/v67.mp4</presentation>
+</paper>
+
+<paper>
+<author>Tova Milo</author>
+<author>Slava Novgorodov</author>
+<author>Kathy Razmadze</author>
+<title>Fixing Wikipedia Interlinks Using Revision History Patterns</title>
+<path>docs/p49.pdf</path>
+<pitch>pitch/e49.mp4</pitch>
+<poster>poster/a49.png</poster>
+<presentation>presentation/v49.mp4</presentation>
+</paper>
+
+<paper>
+<author>Sergey Redyuk</author>
+<author>Zoi Kaoudi</author>
+<author>Volker Markl</author>
+<author>Sebastian Schelter</author>
+<title>Automating Data Quality Validation for Dynamic Data Ingestion</title>
+<path>docs/p79.pdf</path>
+<pitch>pitch/e79.mp4</pitch>
+<poster>poster/a79.png</poster>
+<presentation>presentation/v79.mp4</presentation>
+</paper>
+
+<paper>
+<author>Yann Ramusat</author>
+<author>Silviu Maniu</author>
+<author>Pierre Senellart</author>
+<title>Provenance-Based Algorithms for Rich Queries over Graph Databases</title>
+<path>docs/p16.pdf</path>
+<pitch>pitch/e16.mp4</pitch>
+<poster>poster/a16.png</poster>
+<presentation>presentation/v16.mp4</presentation>
+</paper>
+
+<paper>
+<author>Ioannis Mavroudopoulos</author>
+<author>Theodoros Toliopoulos</author>
+<author>Christos Bellas</author>
+<author>Andreas Kosmatopoulos</author>
+<author>Anastastios Gounaris</author>
+<title>Sequence detection in event log files</title>
+<path>docs/p68.pdf</path>
+<pitch>pitch/e68.mp4</pitch>
+<poster>poster/a68.png</poster>
+<presentation>presentation/v68.mp4</presentation>
+</paper>
+
+<paper>
+<author>Nikolaos Myrtakis</author>
+<author>Vassilis Christophides</author>
+<author>Eric Simon</author>
+<title>A Comparative Evaluation of Anomaly Explanation Algorithms</title>
+<path>docs/p4.pdf</path>
+<pitch>pitch/e4.mp4</pitch>
+<poster>poster/a4.png</poster>
+<presentation>presentation/v4.mp4</presentation>
+</paper>
+
+<paper>
+<author>Daniel Kocher</author>
+<author>Nikolaus Augsten</author>
+<author>Willi Mann</author>
+<title>Scaling Density-Based Clustering to Large Collections of Sets</title>
+<path>docs/p85.pdf</path>
+<pitch>pitch/e85.mp4</pitch>
+<poster>poster/a85.png</poster>
+<presentation>presentation/v85.mp4</presentation>
+</paper>
+
+<paper>
+<author>Matteo Francia</author>
+<author>Matteo Golfarelli</author>
+<author>Patrick Marcel</author>
+<author>Stefano Rizzi</author>
+<author>Panos Vassiliadis</author>
+<title>Assess Queries for Interactive Analysis of Data Cubes</title>
+<path>docs/p41.pdf</path>
+<pitch>pitch/e41.mp4</pitch>
+<poster>poster/a41.png</poster>
+<presentation>presentation/v41.mp4</presentation>
+</paper>
+
+<paper>
+<author>Laurynas Siksnys</author>
+<author>Torben Bach Pedersen</author>
+<author>Thomas Dyhre Nielsen</author>
+<author>Davide Frazzetto</author>
+<title>SolveDB+: SQL-Based Prescriptive Analytics</title>
+<path>docs/p54.pdf</path>
+<pitch>pitch/e54.mp4</pitch>
+<poster>poster/a54.png</poster>
+<presentation>presentation/v54.mp4</presentation>
+</paper>
+
+<paper>
+<author>Shay Gershtein</author>
+<author>Tova Milo</author>
+<author>Brit Youngmann</author>
+<title>Multi-Objective Influence Maximization</title>
+<path>docs/p25.pdf</path>
+<pitch>pitch/e25.mp4</pitch>
+<poster>poster/a25.png</poster>
+<presentation>presentation/v25.mp4</presentation>
+</paper>
+
+<paper>
+<author>Yacine Gaci</author>
+<author>Jorge Ramirez</author>
+<author>Boualem Benatallah</author>
+<author>Fabio Casati</author>
+<author>Khalid Benabdeslem</author>
+<title>Subjectivity Aware Conversational Search Services</title>
+<path>docs/p70.pdf</path>
+<pitch>pitch/e70.mp4</pitch>
+<poster>poster/a70.png</poster>
+<presentation>presentation/v70.mp4</presentation>
+</paper>
+
+<paper>
+<author>Christian Winter</author>
+<author>Andreas Kipf</author>
+<author>Christoph Anneser</author>
+<author>Eleni Tzirita Zacharatou</author>
+<author>Thomas Neumann</author>
+<author>Alfons Kemper</author>
+<title>GeoBlocks: A Query-Cache Accelerated Data Structure for Spatial Aggregation over Polygons</title>
+<path>docs/p78.pdf</path>
+<pitch>pitch/e78.mp4</pitch>
+<poster>poster/a78.png</poster>
+<presentation>presentation/v78.mp4</presentation>
+</paper>
+
+<paper>
+<author>Tiantian Liu</author>
+<author>Huan Li</author>
+<author>Hua Lu</author>
+<author>Muhammad Aamir Cheema</author>
+<author>Lidan Shou</author>
+<title>Indoor Spatial Queries: Modeling, Indexing, and Processing</title>
+<path>docs/p52.pdf</path>
+<pitch>pitch/e52.mp4</pitch>
+<poster>poster/a52.png</poster>
+<presentation>presentation/v52.mp4</presentation>
+</paper>
+
+<paper>
+<author>Lan Jiang</author>
+<author>Gerardo Vitagliano</author>
+<author>Felix Naumann</author>
+<title>Structure Detection in Verbose CSV Files</title>
+<path>docs/p32.pdf</path>
+<pitch>pitch/e32.mp4</pitch>
+<poster>poster/a32.png</poster>
+<presentation>presentation/v32.mp4</presentation>
+</paper>
+
+<paper>
+<author>Hoang Tran Van</author>
+<author>Tristan Allard</author>
+<author>Laurent d'Orazio</author>
+<author>Amr El Abbadi</author>
+<title>FRESQUE: A Scalable Ingestion Framework for Secure Range Query Processing on Clouds</title>
+<path>docs/p55.pdf</path>
+<pitch>pitch/e55.mp4</pitch>
+<poster>poster/a55.png</poster>
+<presentation>presentation/v55.mp4</presentation>
+</paper>
+
+<paper>
+<author>Victor Zakhary</author>
+<author>Lawrence Lim</author>
+<author>Divy Agrawal</author>
+<author>Amr El Abbadi</author>
+<title>Cache on Track (CoT): Decentralized Elastic Caches for Cloud Environments</title>
+<path>docs/p105.pdf</path>
+<pitch>pitch/e105.mp4</pitch>
+<poster>poster/a105.png</poster>
+<presentation>presentation/v105.mp4</presentation>
+</paper>
+
+<paper>
+<author>Weiqin Xu</author>
+<author>Olivier Curé</author>
+<author>Philippe Calvez</author>
+<title>Knowledge Graph Management on the Edge</title>
+<path>docs/p73.pdf</path>
+<pitch>pitch/e73.mp4</pitch>
+<poster>poster/a73.png</poster>
+<presentation>presentation/v73.mp4</presentation>
+</paper>
+
+<paper>
+<author>Zhe Li</author>
+<author>Tsz Nam Chan</author>
+<author>Man Lung Yiu</author>
+<author>Christian Jensen</author>
+<title>PolyFit: Polynomial-based Indexing Approach for Fast Approximate Range Aggregate Queries</title>
+<path>docs/p23.pdf</path>
+<pitch>pitch/e23.mp4</pitch>
+<poster>poster/a23.png</poster>
+<presentation>presentation/v23.mp4</presentation>
+</paper>
+
+<paper>
+<author>Ali Hadian</author>
+<author>Thomas Heinis</author>
+<title>Shift-Table: A Low-latency Learned Index for Range Queries using Model Correction</title>
+<path>docs/p91.pdf</path>
+<pitch>pitch/e91.mp4</pitch>
+<poster>poster/a91.png</poster>
+<presentation>presentation/v91.mp4</presentation>
+</paper>
+
+<paper>
+<author>Sina Shaham</author>
+<author>Gabriel Ghinita</author>
+<author>Cyrus Shahabi</author>
+<title>An Efficient and Secure Location-based Alert Protocol using Searchable Encryption and Huffman Codes</title>
+<path>docs/p76.pdf</path>
+<pitch>pitch/e76.mp4</pitch>
+<poster>poster/a76.png</poster>
+<presentation>presentation/v76.mp4</presentation>
+</paper>
+
+<paper>
+<author>Peeyush Gupta</author>
+<author>Sharad Mehrotra</author>
+<author>Shantanu Sharma</author>
+<author>Nalini Venkatasubramanian</author>
+<author>Guoxi Wang</author>
+<title>Concealer: SGX-based Secure, Volume Hiding, and Verifiable Processing of Spatial Time-Series Datasets</title>
+<path>docs/p109.pdf</path>
+<pitch>pitch/e109.mp4</pitch>
+<poster>poster/a109.png</poster>
+<presentation>presentation/v109.mp4</presentation>
+</paper>
+
+<paper>
+<author>Martin Franke</author>
+<author>Ziad Sehili</author>
+<author>Florens Rohde</author>
+<author>Erhard Rahm</author>
+<title>Evaluation of Hardening Techniques for Privacy-Preserving Record Linkage</title>
+<path>docs/p64.pdf</path>
+<pitch>pitch/e64.mp4</pitch>
+<poster>poster/a64.png</poster>
+<presentation>presentation/v64.mp4</presentation>
+</paper>
+
+<paper>
+<author>Suyash Gupta</author>
+<author>Jelle Hellings</author>
+<author>Sajjad Rahnama</author>
+<author>Mohammad Sadoghi</author>
+<title>Proof-of-Execution: Reaching Consensus through Fault-Tolerant Speculation</title>
+<path>docs/p111.pdf</path>
+<pitch>pitch/e111.mp4</pitch>
+<poster>poster/a111.png</poster>
+<presentation>presentation/v111.mp4</presentation>
+</paper>
+
+<paper>
+<author>Leonidas Fegaras</author>
+<title>Scalable Linear Algebra Programming for Big Data Analysis</title>
+<path>docs/p131.pdf</path>
+<pitch>pitch/e131.mp4</pitch>
+<poster>poster/a131.png</poster>
+<presentation>presentation/v131.mp4</presentation>
+</paper>
+</track>
+
+<track name="Short Paper">
+
+<paper type="Short Paper">
+<author>Matteo Paganelli</author>
+<author>Francesco Del Buono</author>
+<author>Marco Pevarello</author>
+<author>Francesco Guerra</author>
+<author>Maurizio Vincini</author>
+<title>Automated Machine Learning for Entity Matching Tasks</title>
+<path>docs/p260.pdf</path>
+<pitch>pitch/e260.mp4</pitch>
+<poster>poster/a260.png</poster>
+<presentation>presentation/v260.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Mahdi Esmailoghli</author>
+<author>Jorge Arnulfo Quiane Ruiz</author>
+<author>Ziawasch Abedjan</author>
+<title>COCOA: COrrelation COefficient-Aware Data Augmentation</title>
+<path>docs/p226.pdf</path>
+<pitch>pitch/e226.mp4</pitch>
+<poster>poster/a226.png</poster>
+<presentation>presentation/v226.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Manuel Fritz</author>
+<author>Dennis Tschechlov</author>
+<author>Holger Schwarz</author>
+<title>Efficient Exploratory Clustering Analyses with Qualitative Approximations</title>
+<path>docs/p58.pdf</path>
+<pitch>pitch/e58.mp4</pitch>
+<poster>poster/a58.png</poster>
+<presentation>presentation/v58.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Dennis Tschechlov</author>
+<author>Manuel Fritz</author>
+<author>Holger Schwarz</author>
+<title>AutoML4Clust: Efficient AutoML for Clustering Analyses</title>
+<path>docs/p87.pdf</path>
+<pitch>pitch/e87.mp4</pitch>
+<poster>poster/a87.png</poster>
+<presentation>presentation/v87.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Donato Tiano</author>
+<author>Angela Bonifati</author>
+<author>Raymond Ng</author>
+<title>Feature-driven Time Series Clustering</title>
+<path>docs/p270.pdf</path>
+<pitch>pitch/e270.mp4</pitch>
+<poster>poster/a270.png</poster>
+<presentation>presentation/v270.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Arlino Magalhães</author>
+<author>Angelo Brayner</author>
+<author>José Maria Monteiro</author>
+<author>Gustavo Moraes</author>
+<title>Indexed Log File: Towards Main Memory Database Instant Recovery</title>
+<path>docs/p110.pdf</path>
+<pitch>pitch/e110.mp4</pitch>
+<poster>poster/a110.png</poster>
+<presentation>presentation/v110.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Hanfeng Chen</author>
+<author>Joseph D'silva</author>
+<author>Laurie Hendren</author>
+<author>Bettina Kemme</author>
+<title>HorsePower: Accelerating Database Queries for Advanced Data Analytics</title>
+<path>docs/p103.pdf</path>
+<pitch>pitch/e103.mp4</pitch>
+<poster>poster/a103.png</poster>
+<presentation>presentation/v103.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Rainer Schlosser</author>
+<author>Stefan Halfpap</author>
+<title>Robust and Memory-Efficient Database Fragment Allocation for Large and Uncertain Database Workloads</title>
+<path>docs/p44.pdf</path>
+<pitch>pitch/e44.mp4</pitch>
+<poster>poster/a44.png</poster>
+<presentation>presentation/v44.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Mouhamadou Lamine BA</author>
+<author>Osias Noël Nicodème Finagnon Tossou</author>
+<title>TD-AC: Efficient Data Partitioning based Truth Discovery</title>
+<path>docs/p98.pdf</path>
+<pitch>pitch/e98.mp4</pitch>
+<poster>poster/a98.png</poster>
+<presentation>presentation/v98.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Radwa El Shawi</author>
+<author>Youssef Sherif</author>
+<author>Sherif Sakr</author>
+<title>Towards Automated Concept-based Decision TreeExplanations for CNNs</title>
+<path>docs/p251.pdf</path>
+<pitch>pitch/e251.mp4</pitch>
+<poster>poster/a251.png</poster>
+<presentation>presentation/v251.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Muhammad Farhan</author>
+<author>Qing Wang</author>
+<title>Efficient Maintenance of Distance Labelling for Incremental Updates in Large Dynamic Graphs</title>
+<path>docs/p255.pdf</path>
+<pitch>pitch/e255.mp4</pitch>
+<poster>poster/a255.png</poster>
+<presentation>presentation/v255.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Anna Beer</author>
+<author>Ekaterina Allerborn</author>
+<author>Valentin Hartmann</author>
+<author>Thomas Seidl</author>
+<title>KISS - A fast kNN-based Importance Score for Subspaces</title>
+<path>docs/p26.pdf</path>
+<pitch>pitch/e26.mp4</pitch>
+<poster>poster/a26.png</poster>
+<presentation>presentation/v26.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Gang Wang</author>
+<author>Ziyi Guo</author>
+<author>Xiang Li</author>
+<author>Dawei Yin</author>
+<author>Shuai Ma</author>
+<title>SceneRec: Scene-Based Graph Neural Networks for Recommender Systems</title>
+<path>docs/p242.pdf</path>
+<pitch>pitch/e242.mp4</pitch>
+<poster>poster/a242.png</poster>
+<presentation>presentation/v242.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Xichen Zhang</author>
+<author>Suprio Ray</author>
+<author>Farzaneh Shoeleh</author>
+<author>Rongxing Lu</author>
+<title>Efficient Contact Similarity Query over Uncertain Trajectories</title>
+<path>docs/p211.pdf</path>
+<pitch>pitch/e211.mp4</pitch>
+<poster>poster/a211.png</poster>
+<presentation>presentation/v211.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Felipe Gutierrez</author>
+<author>Kaustubh Beedkar</author>
+<author>Abel Souza</author>
+<author>Volker Markl</author>
+<title>AdCom: Adaptive Combiner for Streaming Aggregations</title>
+<path>docs/p266.pdf</path>
+<pitch>pitch/e266.mp4</pitch>
+<poster>poster/a266.png</poster>
+<presentation>presentation/v266.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Stella Maropaki</author>
+<author>Paolo Sottovia</author>
+<author>Stefano Bortoli</author>
+<title>Querying Top-k Dominant Traffic Flows on Large Urban Road Networks</title>
+<path>docs/p90.pdf</path>
+<pitch>pitch/e90.mp4</pitch>
+<poster>poster/a90.png</poster>
+<presentation>presentation/v90.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Xiaoyu Ge</author>
+<author>Panos Chrysanthis</author>
+<title>On Supporting Scalable Active Learning-based Interactive Data Exploration with Uncertainty Estimation Index</title>
+<path>docs/p273.pdf</path>
+<pitch>pitch/e273.mp4</pitch>
+<poster>poster/a273.png</poster>
+<presentation>presentation/v273.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Reza Karegar</author>
+<author>Parke Godfrey</author>
+<author>Lukasz Golab</author>
+<author>Mehdi Kargar</author>
+<author>Divesh Srivastava</author>
+<author>Jaroslaw Szlichta</author>
+<title>Efficient Discovery of Approximate Order Dependencies</title>
+<path>docs/p217.pdf</path>
+<pitch>pitch/e217.mp4</pitch>
+<poster>poster/a217.png</poster>
+<presentation>presentation/v217.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Javier Flores</author>
+<author>Sergi Nadal</author>
+<author>Oscar Romero</author>
+<title>Towards Scalable Data Discovery</title>
+<path>docs/p61.pdf</path>
+<pitch>pitch/e61.mp4</pitch>
+<poster>poster/a61.png</poster>
+<presentation>presentation/v61.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Yaniv Gur</author>
+<author>Dongsheng Yang</author>
+<author>Frederik Stalschus</author>
+<author>Berthold Reinwald</author>
+<title>Adaptive Multi-Model Reinforcement Learning for Online Database Tuning</title>
+<path>docs/p264.pdf</path>
+<pitch>pitch/e264.mp4</pitch>
+<poster>poster/a264.png</poster>
+<presentation>presentation/v264.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Vladimiro González-Zelaya</author>
+<author>Julián Salas</author>
+<author>Dennis Prangle</author>
+<author>Paolo Missier</author>
+<title>Optimising Fairness Through Parametrised Data Sampling</title>
+<path>docs/p12.pdf</path>
+<pitch>pitch/e12.mp4</pitch>
+<poster>poster/a12.png</poster>
+<presentation>presentation/v12.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Andrea Baraldi</author>
+<author>Francesco Del Buono</author>
+<author>Matteo Paganelli</author>
+<author>Francesco Guerra</author>
+<title>Using Landmarks for Explaining Entity Matching Models</title>
+<path>docs/p259.pdf</path>
+<pitch>pitch/e259.mp4</pitch>
+<poster>poster/a259.png</poster>
+<presentation>presentation/v259.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Ines Ben Kraiem</author>
+<author>Faiza Ghozzi</author>
+<author>André Péninou</author>
+<author>Geoffrey Roman-Jimenez</author>
+<author>Olivier Teste</author>
+<title>Human-Interpretable Rules for Anomaly Detection in Time-Series</title>
+<path>docs/p81.pdf</path>
+<pitch>pitch/e81.mp4</pitch>
+<poster>poster/a81.png</poster>
+<presentation>presentation/v81.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Arunprasad Marathe</author>
+<title>DBMS Performance Troubleshooting in Cloud Computing Using Transaction Clustering</title>
+<path>docs/p6.pdf</path>
+<pitch>pitch/e6.mp4</pitch>
+<poster>poster/a6.png</poster>
+<presentation>presentation/v6.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Anders Hammershøj Jensen</author>
+<author>Frederik Lauridsen</author>
+<author>Fatemeh Zardbani</author>
+<author>Stratos Idreos</author>
+<author>Panagiotis Karras</author>
+<title>Revisiting Multidimensional Adaptive Indexing [Experiment & Analysis]</title>
+<path>docs/p46.pdf</path>
+<pitch>pitch/e46.mp4</pitch>
+<poster>poster/a46.png</poster>
+<presentation>presentation/v46.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Georgios Chatzigeorgakidis</author>
+<author>Dimitrios Skoutas</author>
+<author>Kostas Patroumpas</author>
+<author>Themis Palpanas</author>
+<author>Spiros Athanasiou</author>
+<author>Spiros Skiadopoulos</author>
+<title>Twin Subsequence Search in Time Series</title>
+<path>docs/p63.pdf</path>
+<pitch>pitch/e63.mp4</pitch>
+<poster>poster/a63.png</poster>
+<presentation>presentation/v63.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Pedro Holanda</author>
+<author>Stefan Manegold</author>
+<title>Progressive Mergesort: Merging Batches of Appends into Progressive Indexes</title>
+<path>docs/p231.pdf</path>
+<pitch>pitch/e231.mp4</pitch>
+<poster>poster/a231.png</poster>
+<presentation>presentation/v231.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Arseniy Terekhov</author>
+<author>Vlada Pogozhelskaya</author>
+<author>Vadim Abzalov</author>
+<author>Timur Zinnatulin</author>
+<author>Semyon Grigorev</author>
+<title>Multiple-Source Context-Free Path Querying in Terms of Linear Algebra</title>
+<path>docs/p48.pdf</path>
+<pitch>pitch/e48.mp4</pitch>
+<poster>poster/a48.png</poster>
+<presentation>presentation/v48.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Zahid Abul-Basher</author>
+<author>Nikolay Yakovets</author>
+<author>Parke Godfrey</author>
+<author>Stanley Clark</author>
+<author>Mark Chignell</author>
+<title>Answer Graph: Factorization Matters in Large Graphs</title>
+<path>docs/p276.pdf</path>
+<pitch>pitch/e276.mp4</pitch>
+<poster>poster/a276.png</poster>
+<presentation>presentation/v276.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Hanâ Lbath</author>
+<author>Angela Bonifati</author>
+<author>Russ Harmer</author>
+<title>Schema Inference for Property Graphs</title>
+<path>docs/p279.pdf</path>
+<pitch>pitch/e279.mp4</pitch>
+<poster>poster/a279.png</poster>
+<presentation>presentation/v279.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Kashif Rabbani</author>
+<author>Matteo Lissandrini</author>
+<author>Katja Hose</author>
+<title>Optimizing SPARQL Queries using Shape Statistics</title>
+<path>docs/p202.pdf</path>
+<pitch>pitch/e202.mp4</pitch>
+<poster>poster/a202.png</poster>
+<presentation>presentation/v202.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Mostafa Milani</author>
+<author>Yu Huang</author>
+<author>Fei Chiang</author>
+<title>Preserving Diversity in Anonymized Data</title>
+<path>docs/p20.pdf</path>
+<pitch>pitch/e20.mp4</pitch>
+<poster>poster/a20.png</poster>
+<presentation>presentation/v20.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Julius Hülsmann</author>
+<author>Chiao-Yun Li</author>
+<author>Jonas Traub</author>
+<author>Volker Markl</author>
+<title>Automatic Tuning of Read-Time Tolerances for Optimized On-Demand Data-Streaming from Sensor Nodes</title>
+<path>docs/p201.pdf</path>
+<pitch>pitch/e201.mp4</pitch>
+<poster>poster/a201.png</poster>
+<presentation>presentation/v201.mp4</presentation>
+</paper>
+
+<paper type="Short Paper">
+<author>Liang Liang</author>
+<author>Guang Yang</author>
+<author>Thomas Heinis</author>
+<author>David Taniar</author>
+<title>SOJA: A Memory-efficent Small–large Outer Join for MPI</title>
+<path>docs/p268.pdf</path>
+<pitch>pitch/e268.mp4</pitch>
+<poster>poster/a268.png</poster>
+<presentation>presentation/v268.mp4</presentation>
+</paper>
+</track>
+
+<track name="Industrial">
+
+<paper type="Industrial">
+<author>Sebastian Schelter</author>
+<author>Tammo Rukat</author>
+<author>Felix Biessmann</author>
+<title>JENGA - A Framework to Study the Impact of Data Errors on the Predictions of Machine Learning Models</title>
+<path>docs/p134.pdf</path>
+<pitch>pitch/e134.mp4</pitch>
+<poster>poster/a134.png</poster>
+<presentation>presentation/v134.mp4</presentation>
+</paper>
+
+<paper type="Industrial">
+<author>Chenhao Huang</author>
+<author>Michael Cahill</author>
+<author>Alan Fekete</author>
+<author>Uwe Roehm</author>
+<title>Decongestant: A Breath of Fresh Air for MongoDB Through Freshness-aware Reads</title>
+<path>docs/p135.pdf</path>
+<pitch>pitch/e135.mp4</pitch>
+<poster>poster/a135.png</poster>
+<presentation>presentation/v135.mp4</presentation>
+</paper>
+
+<paper type="Industrial">
+<author>Peiquan Jin</author>
+<author>Jianchuang Li</author>
+<author>Hai Long</author>
+<title>DLC: A New Compaction Scheme for LSM-tree with High Stability and Low Latency</title>
+<path>docs/p137.pdf</path>
+<pitch>pitch/e137.mp4</pitch>
+<poster>poster/a137.png</poster>
+<presentation>presentation/v137.mp4</presentation>
+</paper>
+
+<paper type="Industrial">
+<author>Luigi Bellomarini</author>
+<author>Livia Blasi</author>
+<author>Rosario Laurendi</author>
+<author>Emanuel Sallinger</author>
+<title>Financial Data Exchange with Statistical Confidentiality: A Reasoning-based Approach</title>
+<path>docs/p142.pdf</path>
+<pitch>pitch/e142.mp4</pitch>
+<poster>poster/a142.png</poster>
+<presentation>presentation/v142.mp4</presentation>
+</paper>
+
+<paper type="Industrial">
+<author>Fabian Panse</author>
+<author>André Düjon</author>
+<author>Wolfram Wingerath</author>
+<author>Benjamin Wollmer</author>
+<title>Generating Realistic Test Datasets for Duplicate Detection at Scale Using Historical Voter Data</title>
+<path>docs/p152.pdf</path>
+<pitch>pitch/e152.mp4</pitch>
+<poster>poster/a152.png</poster>
+<presentation>presentation/v152.mp4</presentation>
+</paper>
+
+<paper type="Industrial">
+<author>Jochem Kuijpers</author>
+<author>George Fletcher</author>
+<author>Tobias Lindaaker</author>
+<author>Nikolay Yakovets</author>
+<title>Path Indexing in the Cypher Query Pipeline</title>
+<path>docs/p156.pdf</path>
+<pitch>pitch/e156.mp4</pitch>
+<poster>poster/a156.png</poster>
+<presentation>presentation/v156.mp4</presentation>
+</paper>
+
+<paper type="Industrial">
+<author>Ciprian-Octavian Truică</author>
+<author>Elena-Simona APOSTOL</author>
+<author>Teodor Ștefu</author>
+<author>Panos Karras</author>
+<title>A Deep Learning Architecture for Audience Interest Prediction of News Topic on Social Media</title>
+<path>docs/p157.pdf</path>
+<pitch>pitch/e157.mp4</pitch>
+<poster>poster/a157.png</poster>
+<presentation>presentation/v157.mp4</presentation>
+</paper>
+
+<paper type="Industrial">
+<author>Mayank Tiwary</author>
+<author>Pritish Mishra</author>
+<author>Shashank Mohan Jain</author>
+<author>Kshira Sahoo</author>
+<title>AutoDBaaS: Autonomous Database as a Service for managing relational database services</title>
+<path>docs/p161.pdf</path>
+<pitch>pitch/e161.mp4</pitch>
+<poster>poster/a161.png</poster>
+<presentation>presentation/v161.mp4</presentation>
+</paper>
+
+<paper type="Industrial">
+<author>Nikolaos Koutroumanis</author>
+<author>Christos Doulkeridis</author>
+<title>Scalable Spatio-temporal Indexing and Querying over a Document-oriented NoSQL Store</title>
+<path>docs/p162.pdf</path>
+<pitch>pitch/e162.mp4</pitch>
+<poster>poster/a162.png</poster>
+<presentation>presentation/v162.mp4</presentation>
+</paper>
+
+<paper type="Industrial">
+<author>Alekh Jindal</author>
+<author>Shi Qiao</author>
+<author>Hiren Patel</author>
+<author>Abhishek Roy</author>
+<author>Jyoti Leeka</author>
+<author>Brandon Haynes</author>
+<title>Production Experiences from Computation Reuse at Microsoft</title>
+<path>docs/p165.pdf</path>
+<pitch>pitch/e165.mp4</pitch>
+<poster>poster/a165.png</poster>
+<presentation>presentation/v165.mp4</presentation>
+</paper>
+
+<paper type="Industrial">
+<author>Yiming Liao</author>
+<author>Shuguang Wang</author>
+<author>Dongwon Lee</author>
+<title>WILSON: A Divide and Conquer Approach for Fast and Effective News Timeline Summarization</title>
+<path>docs/p166.pdf</path>
+<pitch>pitch/e166.mp4</pitch>
+<poster>poster/a166.png</poster>
+<presentation>presentation/v166.mp4</presentation>
+</paper>
+</track>
+
+<track name="Demo">
+
+<paper type="Demo">
+<author>Matteo Golfarelli</author>
+<author>Enrico Gallinucci</author>
+<author>Matteo Francia</author>
+<title>Conversational OLAP in Action</title>
+<path>docs/p145.pdf</path>
+<pitch>pitch/e145.mp4</pitch>
+<poster>poster/a145.png</poster>
+<presentation>presentation/v145.mp4</presentation>
+</paper>
+
+<paper type="Demo">
+<author>Yuya Sasaki</author>
+<author>Keizo Hori</author>
+<author>Daiki Nishihara</author>
+<author>Ohashi Sora</author>
+<author>Yusuke Wakuta</author>
+<author>Kei Harada</author>
+<author>Makoto Onizuka</author>
+<author>Yuki Arase</author>
+<author>Shinji Shimojo</author>
+<author>Kenji Doi</author>
+<author>Hongdi He</author>
+<author>Zhong-ren Peng</author>
+<title>Smart City Data Analysis via Visualization of Correlated Attribute Patterns</title>
+<path>docs/p167.pdf</path>
+<pitch>pitch/e167.mp4</pitch>
+<poster>poster/a167.png</poster>
+<presentation>presentation/v167.mp4</presentation>
+</paper>
+
+<paper type="Demo">
+<author>Serafeim Chatzopoulos</author>
+<author>Thanasis Vergoulis</author>
+<author>Panagiotis Deligiannis</author>
+<author>Dimitrios Skoutas</author>
+<author>Theodore Dalamagas</author>
+<author>Christos Tryfonopoulos</author>
+<title>SciNeM: A Scalable Data Science Tool for Heterogeneous Network Mining</title>
+<path>docs/p168.pdf</path>
+<pitch>pitch/e168.mp4</pitch>
+<poster>poster/a168.png</poster>
+<presentation>presentation/v168.mp4</presentation>
+</paper>
+
+<paper type="Demo">
+<author>Soteris Constantinou</author>
+<author>Antonis Vasileiou</author>
+<author>Andreas Konstantinidis</author>
+<author>Panos Chrysanthis</author>
+<author>Demetrios Zeinalipour-Yazti</author>
+<title>IMCF: The IoT Meta-Control Firewall for Smart Buildings</title>
+<path>docs/p169.pdf</path>
+<pitch>pitch/e169.mp4</pitch>
+<poster>poster/a169.png</poster>
+<presentation>presentation/v169.mp4</presentation>
+</paper>
+
+<paper type="Demo">
+<author>Jan Kristof Nidzwetzki</author>
+<author>Ralf Hartmut Güting</author>
+<title>BBoxDB Streams: Distributed Processing of Real-World Streams of Position Data</title>
+<path>docs/p170.pdf</path>
+<pitch>pitch/e170.mp4</pitch>
+<poster>poster/a170.png</poster>
+<presentation>presentation/v170.mp4</presentation>
+</paper>
+
+<paper type="Demo">
+<author>Tong Liu</author>
+<author>Paolo Coletti</author>
+<author>Anton Dignös</author>
+<author>Johann Gamper</author>
+<author>Maurizio Murgia</author>
+<title>Correlation graph analytics for stock time series data</title>
+<path>docs/p173.pdf</path>
+<pitch>pitch/e173.mp4</pitch>
+<poster>poster/a173.png</poster>
+<presentation>presentation/v173.mp4</presentation>
+</paper>
+
+<paper type="Demo">
+<author>Stefan Hagedorn</author>
+<author>Steffen Kläbe</author>
+<author>Kai-Uwe Sattler</author>
+<title>Conquering a Panda's weaker self - Fighting laziness with laziness</title>
+<path>docs/p174.pdf</path>
+<pitch>pitch/e174.mp4</pitch>
+<poster>poster/a174.png</poster>
+<presentation>presentation/v174.mp4</presentation>
+</paper>
+
+<paper type="Demo">
+<author>Moditha Hewasinghage</author>
+<author>Sergi Nadal</author>
+<author>Alberto Abelló</author>
+<title>DocDesign 2.0: Automated Database Design for Document Stores with Multi-criteria Optimization</title>
+<path>docs/p175.pdf</path>
+<pitch>pitch/e175.mp4</pitch>
+<poster>poster/a175.png</poster>
+<presentation>presentation/v175.mp4</presentation>
+</paper>
+
+<paper type="Demo">
+<author>Maria Krommyda</author>
+<author>Konstantinos Tsitseklis</author>
+<author>Verena Kantere</author>
+<author>Vasileios Karyotis</author>
+<author>Symeon Papavassiliou</author>
+<title>Visualizing and Exploring Big Datasets based on Semantic Community Detection</title>
+<path>docs/p176.pdf</path>
+<pitch>pitch/e176.mp4</pitch>
+<poster>poster/a176.png</poster>
+<presentation>presentation/v176.mp4</presentation>
+</paper>
+
+<paper type="Demo">
+<author>Christopher Rost</author>
+<author>Kevin Gomez</author>
+<author>Philip Fritzsche</author>
+<author>Andreas Thor</author>
+<author>Erhard Rahm</author>
+<title>Exploration and Analysis of Temporal Property Graphs</title>
+<path>docs/p178.pdf</path>
+<pitch>pitch/e178.mp4</pitch>
+<poster>poster/a178.png</poster>
+<presentation>presentation/v178.mp4</presentation>
+</paper>
+
+<paper type="Demo">
+<author>Giorgos Santipantakis</author>
+<author>George Vouros</author>
+<author>Christos Doulkeridis</author>
+<title>Coronis: Towards Integrated and Open COVID-19 Data</title>
+<path>docs/p179.pdf</path>
+<pitch>pitch/e179.mp4</pitch>
+<poster>poster/a179.png</poster>
+<presentation>presentation/v179.mp4</presentation>
+</paper>
+
+<paper type="Demo">
+<author>Javier Flores</author>
+<author>Sergi Nadal</author>
+<author>Oscar Romero</author>
+<title>Effective and Scalable Data Discovery with NextiaJD</title>
+<path>docs/p184.pdf</path>
+<pitch>pitch/e184.mp4</pitch>
+<poster>poster/a184.png</poster>
+<presentation>presentation/v184.mp4</presentation>
+</paper>
+
+<paper type="Demo">
+<author>Lyes Attouche</author>
+<author>Mohamed-Amine Baazizi</author>
+<author>Dario Colazzo</author>
+<author>Francesco Falleni</author>
+<author>Giorgio Ghelli</author>
+<author>Cristiano Landi</author>
+<author>Carlo Sartiani</author>
+<author>Stefanie Scherzinger</author>
+<title>A Tool for JSON Schema Witness Generation</title>
+<path>docs/p185.pdf</path>
+<pitch>pitch/e185.mp4</pitch>
+<poster>poster/a185.png</poster>
+<presentation>presentation/v185.mp4</presentation>
+</paper>
+
+<paper type="Demo">
+<author>Chiara Accinelli</author>
+<author>Barbara Catania</author>
+<author>Giovanna Guerrini</author>
+<author>Simone Minisi</author>
+<title>covRew: a Python Toolkit for Pre-Processing Pipeline Rewriting Ensuring Coverage Constraint Satisfaction</title>
+<path>docs/p188.pdf</path>
+<pitch>pitch/e188.mp4</pitch>
+<poster>poster/a188.png</poster>
+<presentation>presentation/v188.mp4</presentation>
+</paper>
+
+<paper type="Demo">
+<author>Bruno Silva</author>
+<author>Jose Moreira</author>
+<author>Rogério Luís Costa</author>
+<title>EasyBDI: Near Real-Time Data Analytics over Heterogeneous Data Sources</title>
+<path>docs/p190.pdf</path>
+<pitch>pitch/e190.mp4</pitch>
+<poster>poster/a190.png</poster>
+<presentation>presentation/v190.mp4</presentation>
+</paper>
+</track>
+
+<track name="Tutorial">
+
+<paper type="Tutorial">
+<author>Claudio Gutierrez</author>
+<author>Juan F. Sequeda</author>
+<title>Tutorial on the History of Knowledge Graph's Main Ideas</title>
+<path>docs/p307.pdf</path>
+<pitch>pitch/e307.mp4</pitch>
+<poster>poster/a307.png</poster>
+<presentation>presentation/v307.mp4</presentation>
+</paper>
+
+<paper type="Tutorial">
+<author>Zsolt István</author>
+<title>Tutorial on the Internals of Permissioned Blockchains and on How to Build Applications with Hyperledger Fabric</title>
+<path>docs/p308.pdf</path>
+<pitch>pitch/e308.mp4</pitch>
+<poster>poster/a308.png</poster>
+<presentation>presentation/v308.mp4</presentation>
+</paper>
+
+<paper type="Tutorial">
+<author>George Katsogiannis-Meimarakis</author>
+<author>Georgia Koutrika</author>
+<title>Deep Learning Approaches for Text-to-SQL Systems</title>
+<path>docs/p306.pdf</path>
+<pitch>pitch/e306.mp4</pitch>
+<poster>poster/a306.png</poster>
+<presentation>presentation/v306.mp4</presentation>
+</paper>
+
+<paper type="Tutorial">
+<author>Karima Echihabi</author>
+<author>Kostas Zoumpatianos</author>
+<author>Themis Palpanas</author>
+<title>Big Sequence Management: Scaling up and Out</title>
+<path>docs/p305.pdf</path>
+<pitch>pitch/e305.mp4</pitch>
+<poster>poster/a305.png</poster>
+<presentation>presentation/v305.mp4</presentation>
+</paper>
+
+</track>
+</conf>

@@ -1,0 +1,13 @@
+Best Paper Award
+The
+ Best Paper Award Committee has looked at the papers accepted in the conference and selected one that was distinguishing itself in terms of research quality, presentation, technical challenges, and novelty. The selected paper is the: 
+
+DomainNet:
+ Homograph Detection for Data Lake Disambiguation
+by Aristotelis Leventidis, 
+ Laura Di Rocco, Wolfgang Gatterbauer, Renée J. Miller and Mirek Riedewald
+
+The paper presents
+ DomainNet, a system that disambiguates values from heterogeneous datasets by creating a network representing co-occurring values and computing their graph centrality. The system is unsupervised, its accuracy outperforms the state-of-the-art, and it is accompanied
+ by an open benchmark. The paper is of high significance: the problem is important, the proposed solution is effective, and the benchmark facilitates further research.
+

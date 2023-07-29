@@ -1,0 +1,52 @@
+Test-of-Time Award
+
+
+Established in 2014, the Test-of-Time Award of the  Extended Database Technology
+ (EDBT) Conference recognizes papers presented at the  EDBT Conferences that have had the most impact in terms of research, methodology, conceptual contribution, or transfer to practice over the past ten years. The 2021 Test-of-Time Award committee looked and
+ evaluated the impact of the papers in the EDBT 2011 proceedings, and selected the:
+
+
+
+SeMiTri: a framework for semantic annotation of heterogeneous
+ trajectories, 
+
+
+
+by Zhixian Yan, Dipanjan Chakraborty, Christine Parent, Stefano Spaccapietra,
+ and Karl Aberer
+
+
+
+because
+it is one of the earliest papers to propose a general method for enriching moving object
+ trajectories with semantics useful for supporting location-based services, which have been and still are in high demand across several application sectors. Since its publication, SeMiTri has generated significant interest, and follow-up work on semantic processing
+ of mobile data and trajectories.
+
+
+
+The abstract of the specific paper was reading as follows:
+
+
+
+GPS
+ devices allow recording the movement track of the mov- ing object they are attached to. This data typically consists of a stream of spatio-temporal (x,y,t) points. For application purposes the stream is transformed into finite subsequences called trajectories.
+ Existing knowledge extraction algorithms defined for trajectories mainly assume a specific context (e.g. vehicle movements) or analyze specific parts of a trajectory (e.g. stops), in association with data from chosen geographic sources (e.g. points-of-interest,
+ road networks). We investi- gate a more comprehensive semantic annotation framework that allows enriching trajectories with any kind of semantic data provided by multiple 3rd party sources.
+
+
+
+This paper presents SeMiTri - the framework that enables annotating trajectories
+ for any kind of moving objects. Do- ing so, the application can benefit from a “semantic trajec- tory” representation of the physical movement. The frame- work and its algorithms have been designed to work on tra- jectories with varying data quality and different
+ structures, with the objective of covering abstraction requirements of a wide range of applications. Performance of SeMiTri has been evaluated using many GPS datasets from multiple sources – including both fast moving objects (e.g. cars, trucks) and people’s
+ trajectories (e.g. with smartphones). These two kinds of experiments are reported in this paper.
+
+
+
+
+
+
+
+
+* names of additional reviewers with affiliations (if you wish them to appear)
+* your decision as to who shall appear as editors of the Proceedings (according to the Guidelines, you have to decide whether the „secondary“ Chairs appear as editors or not)
+

@@ -1,0 +1,222 @@
+Program Committee Members 
+Senior Members 
+Periklis Andritsos, U Toronto, Canada
+Nikos Bikakis, ATHENA RC, Greece
+Elena Ferrari, U Insubria, Italy
+Avigdor Gal, Technion -- Israel Institute of Technology, Israel
+Lukasz Golab, U of Waterloo, Canada
+Paul Groth, U of Amsterdam, Netherlands
+Sergio Greco, U Calabria, Italy
+Christian S. Jensen, Aalborg U, Denmark
+Laks V.S. Lakshmanan, U British Columbia, Canada
+Qiong Luo, HKUST, China
+Raymond Ng, U British Columbia, Canada
+Tamer Ozsu, U Waterloo, Canada
+Pinar Tozun, IT U Copenhagen, Denmark 
+Research Track Members 
+Karl Aberer, EPFL, Switzerland
+Ashraf Aboulnaga, Qatar Computing Research Institute, HBKU, Qatar
+Bernd Amann, Sorbonne U, France
+Nicolas Anciaux, INRIA, France
+Walid G. Aref, Purdue U, USA
+Akhil Arora, EPFL, Switzerland
+Farshad Badie, Aalborg U, Denmark
+Manos Athanassoulis, Boston U, USA
+Nikolaus Augsten, U Salzburg, Austria
+Elena Baralis, Politecnico di Torino, Italy
+Denilson Barbosa, U Alberta, Canada
+Ilaria Bartolini, U Bologna, Italy
+Senjuti Basu Roy, New Jersey Ins. of Techn., USA
+Luigi Bellomarini, Banca d’Italia, Italy
+Michael Benedikt, U Oxford, UK
+Alexander Boehm, SAP SE, Germany
+Luc Bouganim, INRIA, France
+Andrea Cali, Birkbeck Univ. of London, UK
+Marco Calautti, U Trento, Italy
+Bogdan Cautis, U Paris-Sud, France
+Mel Chekol, Utrecht U, Netherlands
+Vassilis Christophides, ENSEA, ETIS, France
+Dario Colazzo, Univ. Paris Dauphine – PSL, France
+Bin Cui, Peking U, China
+Alfredo Cuzzocrea, ICAR-CNR & U Calabria, Italy
+Sabrina De Capitani di Vimercati, U Milano, Italy
+Antonios Deligiannakis, Technical U Crete, Greece
+Çağatay Demiralp, Sigma Computing, USA
+Stefania Dumbrava, ENSIIE, France
+George Fakas, Uppsala U, Sweden
+Ju Fan, Renmin U China, China
+Donatella Firmani, Roma Tre U, Italy
+George Fletcher, Eindhoven U Tech., Netherlands
+Daniele Foroni, Huawei, Germany
+Johann-Christoph Freytag, Humboldt-U zu Berlin, Germany
+Avigdor Gal, Technion — Israel Institute of Techn., Israel
+Johann Gamper, Free U Bozen-Bolzano, Italy
+Yunjun Gao, Zhejiang U, China
+Rainer Gemulla, U Mannheim, Germany
+Boris Glavic, Illinois Institute of Techn., USA
+Paolo Guagliardo, U Edinburgh, UK
+Michael Gubanov, Florida State U, USA
+Xi He, U Waterloo, Canada
+Melanie Herschel, U Stuttgart, Germany
+Jan Hidders, U London, UK
+Katja Hose, Aalborg U, Denmark
+Vagelis Hristidis, U California – Riverside, USA
+Haoyu Huang, Google, USA
+Xin Huang, Hong Kong Baptist U, Hong Kong SAR
+Ekaterini Ioannou, Tilburg U, Netherlands
+Zsolt István, IT U Copenhagen, Denmark
+Panos Kalnis, King Abdullah UST, Saudi Arabia
+Vana Kalogeraki, Athens U Eco. & Busin., Greece
+Verena Kantere, National Technical U Athens, Greece
+Panagiotis Karras, Aarhus U, Denmark
+Asterios Katsifodimos, TU Delft, Netherlands
+Anastasios Kementsietsidis, Google Research, USA
+Haridimos Kondylakis, FORTH-ICS, Greece
+Nick Koudas, U Toronto, Canada
+Georgia Koutrika, Athena Research Center, Greece
+Alexandros Labrinidis, U Pittsburgh, USA
+Ulf Leser, Humboldt-U Berlin, Germany
+Guoliang Li, Tsinghua U, China
+Han Li, Amazon, USA
+Xiang Lian, Kent State U, USA
+Chunbin Lin, Amazon AWS, USA
+Matteo Lissandrini, Aalborg U, Denmark
+Eric Lo, Chinese U Hong Kong, Hong Kong SAR
+Ping Lu, Beihang U, China
+Nikos Mamoulis, U Ioannina, Greece
+Ioana Manolescu, Inria & Institut Polytechnique de Paris, France
+Sebastian Michel, TU Kaiserslautern, Germany
+Paolo Missier, Newcastle U, UK
+Mohamed Mokbel, U Minnesota – Twin Cities, USA
+Mirella M. Moro, U Federal de Minas Gerais, Brazil
+Davide Mottin, Aarhus U, Denmark
+Hieu Nguyen, eBay, USA
+Behrooz Omidvar-Tehrani, LIG, France
+Mourad Ouzzani, QCRI, HBKU, Qatar
+George Papadakis, U Athens, Greece
+Olga Papaemmanouil, Brandeis U, USA
+Odysseas Papapetrou, TU Eindhoven, Netherlands
+Paolo Papotti, Eurecom, France
+Alok Pareek, Striim, USA
+Torben Bach Pedersen, Aalborg U, Denmark
+Eric Peukert, Leipzig U, Germany
+Dimitris Plexousakis, ICS-FORTH, Greece
+Laura Po, U Modena and Reggio Emilia, Italy
+Arnau Prat, Sparsity Technologies, Spain
+Nicoleta Preda, U Versailles, France
+Abdulhakim Qahtan, Utrecht U, Netherlands
+Louiqa Raschid, U Maryland, USA
+Mohammad Sadoghi, U California, Davis, USA
+Carlo Sartiani, U Basilicata, Italy
+Kai-Uwe Sattler, TU Ilmenau, Germany
+Sebastian Schelter, U Amsterdam, Netherlands
+Stefanie Scherzinger, U Passau, Germany
+Petra Selmer, Neo4j, UK
+Juan Sequeda, data.world, USA
+Lidan Shou, Zhejiang U, China
+Giovanni Simonini, U Modena and Reggio Emilia, Italy
+Hala Skaf-Molli, U Nantes, France
+Kostas Stefanidis, Tampere U, Finland
+Gabor Szarnyas, CWI, Netherlands
+Letizia Tanca, Politecnico di Milano, Italy
+Ernest Teniente, U Politècnica. de Catalunya, Spain
+Arash Termehchy, Oregon State U, USA
+Chao Tian, Alibaba, China
+Riccardo Torlone, U Roma Tre, Italy
+Farouk Toumani, Clermont Auvergne U, CNRS, France
+Katerina Tzompanaki, CY Cergy Paris U, France
+Vasilis Vassalos, Athens U Ec. & Busin., Greece
+Panos Vassiliadis, U Ioannina, Greece
+Yannis Velegrakis, Utrecht U, Netherlands
+Jianguo Wang, Purdue U, USA
+Wendy Hui Wang, Stevens Inst. of Techn., USA
+Wolfram Wingerath, Baqend, Germany
+Nikolay Yakovets, TU Eindhoven, Netherlands
+Meihui Zhang, Beijing Institute of Techn., China
+
+Industrial/Applications Track  
+Tyler Akidau, Snowflake, USA
+Minhea Andrei, SAP, France
+Angela Bonifati,, France
+Jianjun Chen, Bytedance US Lab, USA
+Thomas Fanghaenel, Salesforce, USA
+Avrilia Floratou, Microsoft, USA
+Prasanta Ghosh, Microsoft, USA
+Yash Govind, Informatica LLC, USA
+Laura Haas, U Massachusetts Amherst, USA
+Zack Ives, U Pennsylvania, USA
+Martin Kersten, MonetDB Solutions, Netherlands
+Hariharan Lakshmanan, Oracle, USA
+Dustin Lange, Amazon Research, USA
+Jyoti Leeka, Microsoft, USA
+Stefan Mandl, EXASOL AG, Germany
+Anisoara Nica, SAP Labs Waterloo, Canada
+Berthold Reinwald, IBM Research-Almaden, USA
+Alejandro Salinger, SAP SE, Germany
+Dennis Shasha, New York U, USA
+Mohamed Soliman, Datometry, USA
+Nesime Tatbul, Intel Labs and MIT, USA
+Wei Wang, National U Singapore, Singapore
+Xuezhi Wang, Google, USA
+Yongsik Yoon, Snowflake, USA
+Kai Zeng, Alibaba Group, China
+Demonstration Track
+Anastasia Ailamaki, EPFL, Switzerland
+Elena Baralis, Politecnico di Torino, Italy
+Senjuti Basu Roy, NJIT, USA
+Angela Bonifati, Lyon U, France
+Renata Borovica-Gajic, U Melbourne, Australia
+Malu Castellanos, TERADATA, USA
+Sarah Cohen Boulakia, U Paris Sud, France
+Maria Luisa Damiani, U Milan, Italy
+Anna Fariha, UMass Amherst, USA
+Irini Fundulaki, FORTH, GRnet, Greece
+Katja Hose, Aalborg U, Denmark
+Vana Kalogeraki, Athens U Ec. & Busin., Greece
+Zoi Kaoudi, TU Berlin, Germany
+Georgia Koutrika, ATHENA, Greece
+Ioana Manolescu, INRIA, France
+Renẻe Miller, Northeastern U, USA
+Silvia Nittel, U Maine, USA
+Fatma Özcan, Google, USA
+Esther Pacitti, INRIA, France
+Danica Porobic, Oracle, Switzerland
+Nesime Tatbul, Intel Labs and MIT, USA
+Agma Traina, ICMC-USP, Brazil
+Zografoula Vagena, U of Paris, France and RelationalAI, USA
+Xiaolan Wang, Megagon Labs, USA
+Karine Zeitouni, U Versailles, France
+
+
+External Reviewers
+Yaniv Gur, IBM Research-Almaden, USA
+Ahmed AL-BAGHDADI, Kent State U, USA
+Niranjan Rai, Kent State U, USA
+Weilong Ren, Kent State U, USA
+Tahereh Arabghalizi, U Pittsburgh, USA
+Evangelos Karageorgos, U Pittsburgh, USA
+Xiaoting Li, U Pittsburgh, USA
+Anthony Sicilia, U Pittsburgh, USA
+Prithu Banerjee, U of British Columbia, Vancouver, Canada
+Saket Gurukar, Ohio State U, Ohio, USA
+Garima Gaur, IIT Kanpur, India
+Sainyam Galhotra, U of Massachusetts, Amherst, USA
+Nikos Giatrakos, Technical U Crete, Greece
+Angjela Davitkova, TU Kaiserslautern, Germany
+Leonardo Gazzarri, U Stuttgart, Germany
+Flavio Giobergia, Politecnico di Torino, Italy
+Eliana Pastor,Politecnico di Torino, Italy
+Uta Störl, Darmstadt U of Applied Sciences, Germany
+Wolfgang Mauerer, Technical U of Applied Sciences Regensburg, Germany
+Vasilis Efthymiou FORTh ICS Greece
+Nikos Myrtakis U of Crete, Greece
+Benjamin Wollmer, Baqend and U of Hamburg, Germany
+Andrea Rossi, U Roma Tre, Italy
+Tobias Lindaaker, Neo4j, Sweden
+
+
+
+
+
+
+
